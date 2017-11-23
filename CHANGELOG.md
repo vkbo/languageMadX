@@ -1,3 +1,7 @@
+## 0.1.3 [2017-11-23] - Bug Fix and Minor Changes
+* Added keyword summ
+* Fixed bug in number formatting
+
 ## 0.1.2 [2017-11-12] - Bug Fix and Minor Changes
 * Fixed mistypen class
 * Moved some more patterns into pattern repository

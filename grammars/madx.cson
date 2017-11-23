@@ -128,7 +128,7 @@
       }
       {
         'match': '''(?xi)\\b(?<!\\.)
-          (twiss|beam)
+          (twiss|beam|summ)
           \\b
         '''
         'name': 'variable.language.madx'
@@ -215,13 +215,13 @@
       }
     ]
   'numbers':
-    'match': '\\b(?<!\\.)([0-9]+\\.?[0-9]*[eE]?[\\+\\-]?)\\b'
+    'match': '\\b(?<!\\.)([0-9]+\\.?[0-9]*[eEdD]?[\\+\\-]?[0-9]*)\\b'
     'name': 'constant.numeric.madx'
-    'captures':
-      '1':
-        'name': 'punctuation.separator.decimal.period.madx'
-      '2':
-        'name': 'punctuation.separator.decimal.period.madx'
+    # 'captures':
+    #   '1':
+    #     'name': 'punctuation.separator.decimal.period.madx'
+    #   '2':
+    #     'name': 'punctuation.separator.decimal.period.madx'
   'types':
     'patterns': [
       {
