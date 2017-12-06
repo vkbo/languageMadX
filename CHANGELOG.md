@@ -1,3 +1,6 @@
+## 0.1.4 [2017-12-06] - Keyword Addition
+* Added keyword aperture
+
 ## 0.1.3 [2017-11-23] - Bug Fix and Minor Changes
 * Added keyword summ
 * Fixed bug in number formatting
