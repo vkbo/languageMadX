@@ -1,3 +1,6 @@
+## 0.1.5 [2017-12-07] - Keyword Addition
+* Added keyword aperture to internals
+
 ## 0.1.4 [2017-12-06] - Keyword Addition
 * Added keyword aperture
 

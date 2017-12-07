@@ -128,7 +128,7 @@
       }
       {
         'match': '''(?xi)\\b(?<!\\.)
-          (twiss|beam|summ)
+          (aperture|twiss|beam|summ)
           \\b
         '''
         'name': 'variable.language.madx'
